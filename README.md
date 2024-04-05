@@ -1,2 +1,2 @@
 # FLASK-PROJECT2
-basic flask project
+basic flask project for beginners
